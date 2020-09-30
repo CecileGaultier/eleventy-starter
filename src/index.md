@@ -5,4 +5,4 @@ eleventyNavigation:
   key: Home
 ---
 
-Welcome to Eleventy starter.
+Bonjour ! Je suis modifié par Cécile Gaultier.
